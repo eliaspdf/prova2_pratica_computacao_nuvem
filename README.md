@@ -4,6 +4,7 @@
 
 
 ##fundamentos da computação em nuvem
+
 questão 1
 R: IaaS oferece uma infraestrutura, já o SaaS fornece um softwer próprio. 
 
@@ -17,6 +18,7 @@ R: a máquina virtual possui um sistema virtual, já o contêiner armazena.
 
 
 ##interpretação dos resultados
+
 questão 1
 R: a imagem docker é o modelo, já o contêiner é a instância em execução.
 
